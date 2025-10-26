@@ -26,7 +26,8 @@ Output: While some people convicted of crimes deserve serious sentences accordin
 | **Mean ΔΠ (median)**        | 0.138 (0.150)          |
 | **t(90)**                   | 25.5 (p = 5.8 × 10⁻⁴³) |
 
-| Operator              | Function                                                           | --------------------- | ----------------------------------------------------------------- |
+| Operator              | Function
+| --------------------- | ----------------------------------------------------------------- |
 | **R (Re-express)**    | soften absolutes, remove shouting
 | --------------------- | ----------------------------------------------------------------- |
 | **C (Contextualize)** | add evidence/hedge
