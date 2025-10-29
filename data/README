@@ -1,0 +1,11 @@
+# Data dictionary
+
+Columns:
+- `segment_id` — Q-## or C-## (Ethicist), S-## (Readers)
+- `section` / `author` — claim source (“Question” / “Columnist” or reader name/Lead)
+- `Pi_before`, `Pi_after` — proportionality Π = H/(1+P)
+- `Delta_Pi` — Π_before − Π_after (after one Ω pass)
+- `Gate4_after` — "Yes" if Π_after ≤ 0.35 else "No"
+
+**Ethicist** (n=18): mean ΔΠ = 0.079; median ΔΠ = 0.074; Gate-4 (post) = 0%.  
+**Readers** (n=33): mean ΔΠ = 0.083; Gate-4 (post) = 0%.
