@@ -20,4 +20,13 @@ What it does:
 Purpose:
   Demonstrates a symbolic, finite-step approach to linguistic alignment — turning harsh or extreme statements into measured, evidence-based ones.
 
+## Data
+- `data/Ethicist_claims.csv` — 18 segments from “Should I Retire…”
+- `data/Readers_claims.csv` — 33 segments from “Facebook Enables Extremist Views… (Readers Respond)”
+
+One Ω pass yields:
+- Ethicist: mean ΔΠ = 0.079 (≈16% relative drop), n = 18
+- Readers: mean ΔΠ = 0.083, n = 33
+
 Created by: Michael Dixon
+
